@@ -1,0 +1,49 @@
+.event {
+  position: relative;
+  border: 2px dashed gray;
+  padding: 10px;
+}
+
+.title {
+  margin: 0px 0px 20px 0px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.info {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 5px;
+  color: gray;
+}
+
+.chip {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  padding: 4px 8px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+}
+
+.keynote {
+  background-color: green;
+}
+
+.discussion {
+  background-color: blue;
+}
+
+.workshop {
+  background-color: red;
+}
+
+.presentation {
+  background-color: rgb(94, 5, 94);
+}

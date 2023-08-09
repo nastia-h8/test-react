@@ -1,0 +1,15 @@
+.wrapper {
+  width: 300px;
+}
+
+.wrapper.violet {
+  background-color: violet;
+}
+
+.wrapper.teal {
+  background-color: teal;
+}
+
+.photo {
+  width: 300px;
+}

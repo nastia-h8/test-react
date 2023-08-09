@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Tech Summit 2023",
+    "location": "TechHub Convention Center, San Francisco",
+    "speaker": "Dr. Amanda Johnson",
+    "type": "keynote",
+    "time": {
+      "start": "2023-09-15 09:00 AM",
+      "end": "2023-09-15 10:30 AM"
+    }
+  },
+  {
+    "name": "AI Innovations Conference",
+    "location": "ExpoTech Arena, New York",
+    "speaker": "Dr. Alex Ramirez",
+    "type": "discussion",
+    "time": {
+      "start": "2023-10-08 02:00 PM",
+      "end": "2023-10-08 04:00 PM"
+    }
+  },
+  {
+    "name": "Future of Energy Summit",
+    "location": "GreenTech Institute, Berlin",
+    "speaker": "Emily Chen",
+    "type": "workshop",
+    "time": {
+      "start": "2023-11-21 11:30 AM",
+      "end": "2023-11-21 01:00 PM"
+    }
+  },
+  {
+    "name": "Marketing Evolution Forum",
+    "location": "Metro Marketing Center, Tokyo",
+    "speaker": "John Anderson",
+    "type": "presentation",
+    "time": {
+      "start": "2023-12-05 03:45 PM",
+      "end": "2023-12-05 05:00 PM"
+    }
+  },
+  {
+    "name": "HealthTech Summit",
+    "location": "MediCare Conference Hall, London",
+    "speaker": "Dr. Sophia Roberts",
+    "type": "discussion",
+    "time": {
+      "start": "2024-01-18 10:00 AM",
+      "end": "2024-01-18 12:00 PM"
+    }
+  },
+  {
+    "name": "Finance and Beyond",
+    "location": "MoneyWorld Auditorium, Singapore",
+    "speaker": "Michael Tanaka",
+    "type": "keynote",
+    "time": {
+      "start": "2024-02-28 01:30 PM",
+      "end": "2024-02-28 03:00 PM"
+    }
+  },
+  {
+    "name": "Space Tech Summit",
+    "location": "SpaceX Conference Center, Los Angeles",
+    "speaker": "Dr. Elizabeth Johnson",
+    "type": "presentation",
+    "time": {
+      "start": "2024-03-15 09:30 AM",
+      "end": "2024-03-15 10:00 AM"
+    }
+  },
+  {
+    "name": "Creative Innovators Forum",
+    "location": "ArtWorks Gallery, Paris",
+    "speaker": "Sophie Leclerc",
+    "type": "workshop",
+    "time": {
+      "start": "2024-04-10 02:15 PM",
+      "end": "2024-04-10 03:00 PM"
+    }
+  }
+]
